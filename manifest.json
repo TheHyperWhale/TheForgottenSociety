@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "TheForgottenSociety_RP",
+		"description": "Makes the addon loko like what is supposed to look like - TheHyperWhale",
+		"uuid": "8d5b771e-e726-405e-9ff6-9a9482933cfb",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "687f8b7f-99ef-4cd4-8af4-86603360cb57",
+			"version": [1, 0, 0]
+		}
+	]
+}
